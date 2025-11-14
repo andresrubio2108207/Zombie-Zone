@@ -1,0 +1,2 @@
+# Zombie-Zone
+Supervivencia Zombi es un juego en Python donde debes memorizar y escribir secuencias para sobrevivir a oleadas de zombis. Consigue power-ups de vida, tiempo o para saltar rondas. Con Tkinter y Pygame, combina rapidez, memoria y estrategia en una experiencia divertida y desafiante.
