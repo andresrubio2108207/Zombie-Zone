@@ -1,0 +1,9 @@
+Requisitos y dependencias del proyecto:
+
+Python 3.8 o superior – El lenguaje en el que está escrito el juego.
+
+Tkinter – Para la interfaz gráfica (incluido en Python, no requiere instalación adicional).
+
+Pygame – Para reproducir los sonidos del juego (correcto.mp3, error.mp3, gameover.mp3).
+
+Pillow (PIL) – Para abrir, manipular y mostrar imágenes (Backround/fondo.png).
